@@ -1,5 +1,20 @@
-main.ipynb
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
 .env
-venv
-pdf
-.gitgnore
+venv/
+pdf/
+
+# Logs
+logs/
+*.log
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
